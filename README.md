@@ -7,7 +7,7 @@ I am Avira, a banker and an aspiring programmer, specialized in Cyber Security a
 - 💬 Ask me about
   
 - 📫 How to reach me:
-  
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
