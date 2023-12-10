@@ -18,7 +18,6 @@ I am Avira, a former banker 👩🏻‍💼 and an aspiring programmer 👩‍�
 🍷💿 GitHub Stat :
 
 [![Avira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybigsur5)](https://github.com/ybigsur5/github-readme-stats)
-![Avira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybigsur5&theme=synthwave_icons=true)
 
 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆
 
