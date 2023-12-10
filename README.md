@@ -10,3 +10,6 @@ I am Avira, a former banker and an aspiring programmer, specialized in Cyber Sec
 📫 How to reach me:
   1. Instagram : @vlada_reads_tech
   2. e-mail : virainfotech1@gmail.com
+
+GitHub Stat :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
