@@ -12,14 +12,4 @@ I am Avira, a former banker and an aspiring programmer, specialized in Cyber Sec
   2. e-mail : virainfotech1@gmail.com
 
 GitHub Stat :
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+[![Avira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybigsur5)](https://github.com/ybigsur5/github-readme-stats)
