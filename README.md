@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Welcome to my Github Profile!
-I am Avira, a former banker 👩🏻‍💼 and an aspiring programmer 👩‍💻, specialized in Cyber Security and Web Development 💻! 
-- 🌱 I’m currently learning Python, Rust, and Kotlin
-- 👯 I’m looking to collaborate on Powershell projects for infosec tools
+I am Vira 👩🏻‍💼 an aspiring programmer, specialized in Cyber Security and Web Development 💻! 
+- 🌱 I’m currently learning Solidity, Rust, and Kotlin
+- 👯 I’m looking to collaborate on projects for infosec tools, and digital forensics web3 projects and hackathons!
 - 💬 Ask me about!
   Anything! I am open to learn new and existing things in tech industries
 
